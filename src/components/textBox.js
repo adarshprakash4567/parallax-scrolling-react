@@ -3,12 +3,14 @@ import React from 'react'
 const textBox = () => {
     return (
         <div className='text-box'>
-            <h3>JavaScript News and Updates of June 2022 </h3>
-            <h4> Vue Team Resorts to Backportingc</h4>
+            <h3>Stack Overflow Users Are Revolting Against an OpenAI Deal</h3>
+            <h4>Members of the software developer community have reported deleting or altering their posts to prevent them from being used by OpenAI.</h4>
             <p>
-                Evan You together with his team gives the finishing touches to Vue 2.7 despite the fact that Vue 3 now being the default version of the framework. Why is that? The point is that many developers still cannot migrate to v3.0 because of various bottlenecks such as dependency compatibility, browser support requirements, etc. Therefore, it was decided to help those who still have to use Vue 2.x by backporting some of the key features from Vue 3. As a result, some features from Vue 3 will be available in v2.7 that is currently in beta.
+            ON MONDAY, STACK Overflow and OpenAI announced a new API partnership that will integrate Stack Overflow's technical content with OpenAI's ChatGPT AI assistant. The deal has sparked controversy among Stack Overflow's user community, with many expressing anger and protest over the use of their contributed content to support and train AI models.
 
-                At the same time, it should be noted that v2.7 will be the last release of Vue 2.x. It will be supported for 18 months (by the end of 2023) to give developers enough time for migration to Vue 3. Learn more details about the upcoming release in this post.
+"I hate this. I'm just going to delete/deface my answers one by one," wrote one user on sister site Stack Exchange. “I don't care if this is against your silly policies, because as this announcement shows, your policies can change at a whim without prior consultation of your stakeholders. You don't care about your users, I don't care about you.”
+
+Stack Overflow is a popular question-and-answer site for software developers that allows users to ask and answer technical questions related to coding. The site has a large community of developers who contribute knowledge and expertise to help others solve programming problems. Over the past decade, Stack Overflow has become a heavily utilized resource for many developers seeking solutions to common coding challenges.
             </p>
         </div>
     )
